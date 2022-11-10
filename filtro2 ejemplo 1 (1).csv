@@ -1,0 +1,51 @@
+,code,name,continent,region,surface_area,independence_year,population,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+50,CRI,Costa Rica,North America,Central America,51100.0,1821.0,4023000,75.8,10226.0,9757.0,Costa Rica,Republic,Miguel angel RodrIguez EcheverrIa,584.0,CR
+51,CuB,Cuba,North America,Caribbean,110861.0,1902.0,11201000,76.2,17843.0,18862.0,Cuba,Socialistic Republic,Fidel Castro Ruz,2413.0,Cu
+52,CXR,Christmas Island,Oceania,Australia and New Zealand,135.0,,2500,,0.0,,Christmas Island,Territory of Australia,Elisabeth II,1791.0,CX
+53,CYM,Cayman Islands,North America,Caribbean,264.0,,38000,78.9,1263.0,1186.0,Cayman Islands,Dependent Territory of the uK,Elisabeth II,553.0,KY
+54,CYP,Cyprus,Asia,Middle East,9251.0,1960.0,754700,76.7,9333.0,8246.0,Kypros/Kibris,Republic,Glafkos Klerides,2430.0,CY
+55,CZE,Czech Republic,Europe,Eastern Europe,78866.0,1993.0,10278100,74.5,55017.0,52037.0,esko,Republic,Vaclav Havel,3339.0,CZ
+56,DEu,Germany,Europe,Western Europe,357022.0,1955.0,82164700,77.4,2133367.0,2102826.0,Deutschland,Federal Republic,Johannes Rau,3068.0,DE
+57,DJI,Djibouti,Africa,Eastern Africa,23200.0,1977.0,638000,50.8,382.0,373.0,Djibouti/Jibuti,Republic,Ismail Omar Guelleh,585.0,DJ
+58,DMA,Dominica,North America,Caribbean,751.0,1978.0,71000,73.4,256.0,243.0,Dominica,Republic,Vernon Shaw,586.0,DM
+59,DNK,Denmark,Europe,Nordic Countries,43094.0,800.0,5330000,76.5,174099.0,169264.0,Danmark,Constitutional Monarchy,Margrethe II,3315.0,DK
+60,DOM,Dominican Republic,North America,Caribbean,48511.0,1844.0,8495000,73.2,15846.0,15076.0,Republica Dominicana,Republic,Hipolito MejIa DomInguez,587.0,DO
+61,DZA,Algeria,Africa,Northern Africa,2381741.0,1962.0,31471000,69.7,49982.0,46966.0,Al-Jazair/Algerie,Republic,Abdelaziz Bouteflika,35.0,DZ
+62,ECu,Ecuador,South America,South America,283561.0,1822.0,12646000,71.1,19770.0,19769.0,Ecuador,Republic,Gustavo Noboa Bejarano,594.0,EC
+63,EGY,Egypt,Africa,Northern Africa,1001449.0,1922.0,68470000,63.3,82710.0,75617.0,Misr,Republic,Hosni Mubarak,608.0,EG
+64,ERI,Eritrea,Africa,Eastern Africa,117600.0,1993.0,3850000,55.8,650.0,755.0,Ertra,Republic,Isayas Afewerki [Isaias Afwerki],652.0,ER
+65,ESH,Western Sahara,Africa,Northern Africa,266000.0,,293000,49.8,60.0,,As-Sahrawiya,Occupied by Marocco,Mohammed Abdel Aziz,2453.0,EH
+66,ESP,Spain,Europe,Southern Europe,505992.0,1492.0,39441700,78.8,553233.0,532031.0,Espana,Constitutional Monarchy,Juan Carlos I,653.0,ES
+67,EST,Estonia,Europe,Baltic Countries,45227.0,1991.0,1439200,69.5,5328.0,3371.0,Eesti,Republic,Lennart Meri,3791.0,EE
+68,ETH,Ethiopia,Africa,Eastern Africa,1104300.0,-1000.0,62565000,45.2,6353.0,6180.0,YeItyop iya,Republic,Negasso Gidada,756.0,ET
+69,FIN,Finland,Europe,Nordic Countries,338145.0,1917.0,5171300,77.4,121914.0,119833.0,Suomi,Republic,Tarja Halonen,3236.0,FI
+70,FJI,Fiji Islands,Oceania,Melanesia,18274.0,1970.0,817000,67.9,1536.0,2149.0,Fiji Islands,Republic,Josefa Iloilo,764.0,FJ
+71,FLK,Falkland Islands,South America,South America,12173.0,,2000,,0.0,,Falkland Islands,Dependent Territory of the uK,Elisabeth II,763.0,FK
+72,FRA,France,Europe,Western Europe,551500.0,843.0,59225700,78.8,1424285.0,1392448.0,France,Republic,Jacques Chirac,2974.0,FR
+73,FRO,Faroe Islands,Europe,Nordic Countries,1399.0,,43000,78.4,0.0,,Foroyar,Part of Denmark,Margrethe II,901.0,FO
+74,FSM,"Micronesia, Federated States of",Oceania,Micronesia,702.0,1990.0,119000,68.6,212.0,,Micronesia,Federal Republic,Leo A. Falcam,2689.0,FM
+75,GAB,Gabon,Africa,Central Africa,267668.0,1960.0,1226000,50.1,5493.0,5279.0,Le Gabon,Republic,Omar Bongo,902.0,GA
+76,GBR,united Kingdom,Europe,British Islands,242900.0,1066.0,59623400,77.7,1378330.0,1296830.0,united Kingdom,Constitutional Monarchy,Elisabeth II,456.0,GB
+77,GEO,Georgia,Asia,Middle East,69700.0,1991.0,4968000,64.5,6064.0,5924.0,Sakartvelo,Republic,Eduard Sevardnadze,905.0,GE
+78,GHA,Ghana,Africa,Western Africa,238533.0,1957.0,20212000,57.4,7137.0,6884.0,Ghana,Republic,John Kufuor,910.0,GH
+79,GIB,Gibraltar,Europe,Southern Europe,6.0,,25000,79.0,258.0,,Gibraltar,Dependent Territory of the uK,Elisabeth II,915.0,GI
+80,GIN,Guinea,Africa,Western Africa,245857.0,1958.0,7430000,45.6,2352.0,2383.0,Guinee,Republic,Lansana Conte,926.0,GN
+81,GLP,Guadeloupe,North America,Caribbean,1705.0,,456000,77.0,3501.0,,Guadeloupe,Overseas Department of France,Jacques Chirac,919.0,GP
+82,GMB,Gambia,Africa,Western Africa,11295.0,1965.0,1305000,53.2,320.0,325.0,The Gambia,Republic,Yahya Jammeh,904.0,GM
+83,GNB,Guinea-Bissau,Africa,Western Africa,36125.0,1974.0,1213000,49.0,293.0,272.0,Guine-Bissau,Republic,Kumba Iala,927.0,GW
+84,GNQ,Equatorial Guinea,Africa,Central Africa,28051.0,1968.0,453000,53.6,283.0,542.0,Guinea Ecuatorial,Republic,Teodoro Obiang Nguema Mbasogo,2972.0,GQ
+85,GRC,Greece,Europe,Southern Europe,131626.0,1830.0,10545700,78.4,120724.0,119946.0,Ellada,Republic,Kostis Stefanopoulos,2401.0,GR
+86,GRD,Grenada,North America,Caribbean,344.0,1974.0,94000,64.5,318.0,,Grenada,Constitutional Monarchy,Elisabeth II,916.0,GD
+87,GRL,Greenland,North America,North America,2166090.0,,56000,68.1,0.0,,Kalaallit Nunaat/Gronland,Part of Denmark,Margrethe II,917.0,GL
+88,GTM,Guatemala,North America,Central America,108889.0,1821.0,11385000,66.2,19008.0,17797.0,Guatemala,Republic,Alfonso Portillo Cabrera,922.0,GT
+89,GuF,French Guiana,South America,South America,90000.0,,181000,76.1,681.0,,Guyane francaise,Overseas Department of France,Jacques Chirac,3014.0,GF
+90,GuM,Guam,Oceania,Micronesia,549.0,,168000,77.8,1197.0,1136.0,Guam,uS Territory,George W. Bush,921.0,Gu
+91,GuY,Guyana,South America,South America,214969.0,1966.0,861000,64.0,722.0,743.0,Guyana,Republic,Bharrat Jagdeo,928.0,GY
+92,HKG,Hong Kong,Asia,Eastern Asia,1075.0,,6782000,79.5,166448.0,173610.0,Xianggang/Hong Kong,Special Administrative Region of China,Jiang Zemin,937.0,HK
+93,HMD,Heard Island and McDonald Islands,Antarctica,Antarctica,359.0,,0,,0.0,,Heard and McDonald Islands,Territory of Australia,Elisabeth II,,HM
+94,HND,Honduras,North America,Central America,112088.0,1838.0,6485000,69.9,5333.0,4697.0,Honduras,Republic,Carlos Roberto Flores Facusse,933.0,HN
+95,HRV,Croatia,Europe,Southern Europe,56538.0,1991.0,4473000,73.7,20208.0,19300.0,Hrvatska,Republic,Stipe Mesic,2409.0,HR
+96,HTI,Haiti,North America,Caribbean,27750.0,1804.0,8222000,49.2,3459.0,3107.0,Haiti/Dayti,Republic,Jean-Bertrand Aristide,929.0,HT
+97,HuN,Hungary,Europe,Eastern Europe,93030.0,1918.0,10043200,71.4,48267.0,45914.0,Magyarorszag,Republic,Ferenc Madl,3483.0,Hu
+98,IDN,Indonesia,Asia,Southeast Asia,1904569.0,1945.0,212107000,68.0,84982.0,215002.0,Indonesia,Republic,Abdurrahman Wahid,939.0,ID
+99,IND,India,Asia,Southern and Central Asia,3287263.0,1947.0,1013662000,62.5,447114.0,430572.0,Bharat/India,Federal Republic,Kocheril Raman Narayanan,1109.0,IN

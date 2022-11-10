@@ -1,0 +1,111 @@
+,code,name,continent,region,surface_area,independence_year,population,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+1,AFG,Afghanistan,Asia,Southern and Central Asia,652090.0,1919.0,22720000,45.9,5976.0,,Afganistan/Afqanestan,Islamic Emirate,Mohammad Omar,1.0,AF
+2,AGO,Angola,Africa,Central Africa,1246700.0,1975.0,12878000,38.3,6648.0,7984.0,Angola,Republic,Jose Eduardo dos Santos,56.0,AO
+9,ARM,Armenia,Asia,Middle East,29800.0,1991.0,3520000,66.4,1813.0,1627.0,Hajastan,Republic,Robert KotSarjan,126.0,AM
+16,AZE,Azerbaijan,Asia,Middle East,86600.0,1991.0,7734000,62.9,4127.0,4100.0,Azarbaycan,Federal Republic,Heydar aliyev,144.0,AZ
+17,BDI,Burundi,Africa,Eastern Africa,27834.0,1962.0,6695000,46.2,903.0,982.0,Burundi/uburundi,Republic,Pierre Buyoya,552.0,BI
+19,BEN,Benin,Africa,Western Africa,112622.0,1960.0,6097000,50.2,2357.0,2141.0,Benin,Republic,Mathieu Kerekou,187.0,BJ
+20,BFA,Burkina Faso,Africa,Western Africa,274000.0,1960.0,11937000,46.7,2425.0,2201.0,Burkina Faso,Republic,Blaise Compaore,549.0,BF
+21,BGD,Bangladesh,Asia,Southern and Central Asia,143998.0,1971.0,129155000,60.2,32852.0,31966.0,Bangladesh,Republic,Shahabuddin Ahmad,150.0,BD
+26,BLR,Belarus,Europe,Eastern Europe,207600.0,1991.0,10236000,68.0,13714.0,,Belarus,Republic,Aljaksandr LukaSenka,3520.0,BY
+29,BOL,Bolivia,South America,South America,1098581.0,1825.0,8329000,63.7,8571.0,7967.0,Bolivia,Republic,Hugo Banzer Suarez,194.0,BO
+30,BRA,Brazil,South America,South America,8547403.0,1822.0,170115000,62.9,776739.0,804108.0,Brasil,Federal Republic,Fernando Henrique Cardoso,211.0,BR
+33,BTN,Bhutan,Asia,Southern and Central Asia,47000.0,1910.0,2124000,52.4,372.0,383.0,Druk-Yul,Monarchy,Jigme Singye Wangchuk,192.0,BT
+35,BWA,Botswana,Africa,Southern Africa,581730.0,1966.0,1622000,39.3,4834.0,4935.0,Botswana,Republic,Festus G. Mogae,204.0,BW
+36,CAF,Central African Republic,Africa,Central Africa,622984.0,1960.0,3615000,44.0,1054.0,993.0,Centrafrique/Be-Afrika,Republic,Ange-Felix Patasse,1889.0,CF
+42,CIV,Cote dIvoire,Africa,Western Africa,322463.0,1960.0,14786000,45.2,11345.0,10285.0,Cote dIvoire,Republic,Laurent Gbagbo,2814.0,CI
+43,CMR,Cameroon,Africa,Central Africa,475442.0,1960.0,15085000,54.8,9174.0,8596.0,Cameroun/Cameroon,Republic,Paul Biya,1804.0,CM
+44,COD,"Congo, The Democratic Republic of the",Africa,Central Africa,2344858.0,1960.0,51654000,48.8,6964.0,2474.0,Republique Democratique du Congo,Republic,Joseph Kabila,2298.0,CD
+45,COG,Congo,Africa,Central Africa,342000.0,1960.0,2943000,47.4,2108.0,2287.0,Congo,Republic,Denis Sassou-Nguesso,2296.0,CG
+48,COM,Comoros,Africa,Eastern Africa,1862.0,1975.0,578000,60.0,4401.0,4361.0,Komori/Comores,Republic,Azali Assoumani,2295.0,KM
+49,CPV,Cape Verde,Africa,Western Africa,4033.0,1975.0,428000,68.9,435.0,420.0,Cabo Verde,Republic,Antonio Mascarenhas Monteiro,1859.0,CV
+57,DJI,Djibouti,Africa,Eastern Africa,23200.0,1977.0,638000,50.8,382.0,373.0,Djibouti/Jibuti,Republic,Ismail Omar Guelleh,585.0,DJ
+61,DZA,Algeria,Africa,Northern Africa,2381741.0,1962.0,31471000,69.7,49982.0,46966.0,Al-Jazair/Algerie,Republic,Abdelaziz Bouteflika,35.0,DZ
+63,EGY,Egypt,Africa,Northern Africa,1001449.0,1922.0,68470000,63.3,82710.0,75617.0,Misr,Republic,Hosni Mubarak,608.0,EG
+64,ERI,Eritrea,Africa,Eastern Africa,117600.0,1993.0,3850000,55.8,650.0,755.0,Ertra,Republic,Isayas Afewerki [Isaias Afwerki],652.0,ER
+65,ESH,Western Sahara,Africa,Northern Africa,266000.0,,293000,49.8,60.0,,As-Sahrawiya,Occupied by Marocco,Mohammed Abdel Aziz,2453.0,EH
+67,EST,Estonia,Europe,Baltic Countries,45227.0,1991.0,1439200,69.5,5328.0,3371.0,Eesti,Republic,Lennart Meri,3791.0,EE
+68,ETH,Ethiopia,Africa,Eastern Africa,1104300.0,-1000.0,62565000,45.2,6353.0,6180.0,YeItyop iya,Republic,Negasso Gidada,756.0,ET
+70,FJI,Fiji Islands,Oceania,Melanesia,18274.0,1970.0,817000,67.9,1536.0,2149.0,Fiji Islands,Republic,Josefa Iloilo,764.0,FJ
+74,FSM,"Micronesia, Federated States of",Oceania,Micronesia,702.0,1990.0,119000,68.6,212.0,,Micronesia,Federal Republic,Leo A. Falcam,2689.0,FM
+75,GAB,Gabon,Africa,Central Africa,267668.0,1960.0,1226000,50.1,5493.0,5279.0,Le Gabon,Republic,Omar Bongo,902.0,GA
+77,GEO,Georgia,Asia,Middle East,69700.0,1991.0,4968000,64.5,6064.0,5924.0,Sakartvelo,Republic,Eduard Sevardnadze,905.0,GE
+78,GHA,Ghana,Africa,Western Africa,238533.0,1957.0,20212000,57.4,7137.0,6884.0,Ghana,Republic,John Kufuor,910.0,GH
+80,GIN,Guinea,Africa,Western Africa,245857.0,1958.0,7430000,45.6,2352.0,2383.0,Guinee,Republic,Lansana Conte,926.0,GN
+82,GMB,Gambia,Africa,Western Africa,11295.0,1965.0,1305000,53.2,320.0,325.0,The Gambia,Republic,Yahya Jammeh,904.0,GM
+83,GNB,Guinea-Bissau,Africa,Western Africa,36125.0,1974.0,1213000,49.0,293.0,272.0,Guine-Bissau,Republic,Kumba Iala,927.0,GW
+84,GNQ,Equatorial Guinea,Africa,Central Africa,28051.0,1968.0,453000,53.6,283.0,542.0,Guinea Ecuatorial,Republic,Teodoro Obiang Nguema Mbasogo,2972.0,GQ
+86,GRD,Grenada,North America,Caribbean,344.0,1974.0,94000,64.5,318.0,,Grenada,Constitutional Monarchy,Elisabeth II,916.0,GD
+87,GRL,Greenland,North America,North America,2166090.0,,56000,68.1,0.0,,Kalaallit Nunaat/Gronland,Part of Denmark,Margrethe II,917.0,GL
+88,GTM,Guatemala,North America,Central America,108889.0,1821.0,11385000,66.2,19008.0,17797.0,Guatemala,Republic,Alfonso Portillo Cabrera,922.0,GT
+91,GuY,Guyana,South America,South America,214969.0,1966.0,861000,64.0,722.0,743.0,Guyana,Republic,Bharrat Jagdeo,928.0,GY
+94,HND,Honduras,North America,Central America,112088.0,1838.0,6485000,69.9,5333.0,4697.0,Honduras,Republic,Carlos Roberto Flores Facusse,933.0,HN
+96,HTI,Haiti,North America,Caribbean,27750.0,1804.0,8222000,49.2,3459.0,3107.0,Haiti/Dayti,Republic,Jean-Bertrand Aristide,929.0,HT
+98,IDN,Indonesia,Asia,Southeast Asia,1904569.0,1945.0,212107000,68.0,84982.0,215002.0,Indonesia,Republic,Abdurrahman Wahid,939.0,ID
+99,IND,India,Asia,Southern and Central Asia,3287263.0,1947.0,1013662000,62.5,447114.0,430572.0,Bharat/India,Federal Republic,Kocheril Raman Narayanan,1109.0,IN
+102,IRN,Iran,Asia,Southern and Central Asia,1648195.0,1906.0,67702000,69.7,195746.0,160151.0,Iran,Islamic Republic,Ali Mohammad Khatami-Ardakani,1380.0,IR
+103,IRQ,Iraq,Asia,Middle East,438317.0,1932.0,23115000,66.5,11500.0,,Al- Iraq,Republic,Saddam Hussein al-Takriti,1365.0,IQ
+110,KAZ,Kazakstan,Asia,Southern and Central Asia,2724900.0,1991.0,16223000,63.2,24375.0,23383.0,Qazaqstan,Republic,Nursultan Nazarbajev,1864.0,KZ
+111,KEN,Kenya,Africa,Eastern Africa,580367.0,1963.0,30080000,48.0,9217.0,10241.0,Kenya,Republic,Daniel arap Moi,1881.0,KE
+112,KGZ,Kyrgyzstan,Asia,Southern and Central Asia,199900.0,1991.0,4699000,63.4,1626.0,1767.0,Kyrgyzstan,Republic,Askar Akajev,2253.0,KG
+113,KHM,Cambodia,Asia,Southeast Asia,181035.0,1953.0,11168000,56.5,5121.0,5670.0,Kampuchea,Constitutional Monarchy,Norodom Sihanouk,1800.0,KH
+114,KIR,Kiribati,Oceania,Micronesia,726.0,1979.0,83000,59.8,40.7,,Kiribati,Republic,Teburoro Tito,2256.0,KI
+118,LAO,Laos,Asia,Southeast Asia,236800.0,1953.0,5433000,53.1,1292.0,1746.0,Lao,Republic,Khamtay Siphandone,2432.0,LA
+120,LBR,Liberia,Africa,Western Africa,111369.0,1847.0,3154000,51.0,2012.0,,Liberia,Republic,Charles Taylor,2440.0,LR
+125,LSO,Lesotho,Africa,Southern Africa,30355.0,1966.0,2153000,50.8,1061.0,1161.0,Lesotho,Constitutional Monarchy,Letsie III,2437.0,LS
+126,LTu,Lithuania,Europe,Baltic Countries,65301.0,1991.0,3698500,69.1,10692.0,9585.0,Lietuva,Republic,Valdas Adamkus,2447.0,LT
+128,LVA,Latvia,Europe,Baltic Countries,64589.0,1991.0,2424200,68.4,6398.0,5639.0,Latvija,Republic,Vaira Vike-Freiberga,2434.0,LV
+130,MAR,Morocco,Africa,Northern Africa,446550.0,1956.0,28351000,69.1,36124.0,33514.0,Al-Maghrib,Constitutional Monarchy,Mohammed VI,2486.0,MA
+132,MDA,Moldova,Europe,Eastern Europe,33851.0,1991.0,4380000,64.5,1579.0,1872.0,Moldova,Republic,Vladimir Voronin,2690.0,MD
+133,MDG,Madagascar,Africa,Eastern Africa,587041.0,1960.0,15942000,55.0,3750.0,3545.0,Madagasikara/Madagascar,Federal Republic,Didier Ratsiraka,2455.0,MG
+134,MDV,Maldives,Asia,Southern and Central Asia,298.0,1965.0,286000,62.2,199.0,,Dhivehi Raajje/Maldives,Republic,Maumoon Abdul Gayoom,2463.0,MV
+136,MHL,Marshall Islands,Oceania,Micronesia,181.0,1990.0,64000,65.5,97.0,,Marshall Islands/Majol,Republic,Kessai Note,2507.0,MH
+138,MLI,Mali,Africa,Western Africa,1240192.0,1960.0,11234000,46.7,2642.0,2453.0,Mali,Republic,Alpha Oumar Konare,2482.0,ML
+140,MMR,Myanmar,Asia,Southeast Asia,676578.0,1948.0,45611000,54.9,180375.0,171028.0,Myanma Pye,Republic,kenraali Than Shwe,2710.0,MM
+141,MNG,Mongolia,Asia,Eastern Asia,1566500.0,1921.0,2662000,67.3,1043.0,933.0,Mongol uls,Republic,Natsagiin Bagabandi,2696.0,MN
+143,MOZ,Mozambique,Africa,Eastern Africa,801590.0,1975.0,19680000,37.5,2891.0,2711.0,Mocambique,Republic,JoaquIm A. Chissano,2698.0,MZ
+144,MRT,Mauritania,Africa,Western Africa,1025520.0,1960.0,2670000,50.8,998.0,1081.0,Muritaniya/Mauritanie,Republic,Maaouiya Ould Sid Ahmad Taya,2509.0,MR
+148,MWI,Malawi,Africa,Eastern Africa,118484.0,1964.0,10925000,37.6,1687.0,2527.0,Malawi,Republic,Bakili Muluzi,2462.0,MW
+150,MYT,Mayotte,Africa,Eastern Africa,373.0,,149000,59.5,0.0,,Mayotte,Territorial Collectivity of France,Jacques Chirac,2514.0,YT
+151,NAM,Namibia,Africa,Southern Africa,824292.0,1990.0,1726000,42.5,3101.0,3384.0,Namibia,Republic,Sam Nujoma,2726.0,
+153,NER,Niger,Africa,Western Africa,1267000.0,1960.0,10730000,41.3,1706.0,1580.0,Niger,Republic,Mamadou Tandja,2738.0,NE
+155,NGA,Nigeria,Africa,Western Africa,923768.0,1960.0,111506000,51.6,65707.0,58623.0,Nigeria,Federal Republic,Olusegun Obasanjo,2754.0,NG
+156,NIC,Nicaragua,North America,Central America,130000.0,1838.0,5074000,68.7,1988.0,2023.0,Nicaragua,Republic,Arnoldo Aleman Lacayo,2734.0,NI
+160,NPL,Nepal,Asia,Southern and Central Asia,147181.0,1769.0,23930000,57.8,4768.0,4837.0,Nepal,Constitutional Monarchy,Gyanendra Bir Bikram,2729.0,NP
+161,NRu,Nauru,Oceania,Micronesia,21.0,1968.0,12000,60.8,197.0,,Naoero/Nauru,Republic,Bernard Dowiyogo,2728.0,NR
+164,PAK,Pakistan,Asia,Southern and Central Asia,796095.0,1947.0,156483000,61.1,61289.0,58549.0,Pakistan,Republic,Mohammad Rafiq Tarar,2831.0,PK
+168,PHL,Philippines,Asia,Southeast Asia,300000.0,1946.0,75967000,67.5,65107.0,82239.0,Pilipinas,Republic,Gloria Macapagal-Arroyo,766.0,PH
+169,PLW,Palau,Oceania,Micronesia,459.0,1994.0,19000,68.6,105.0,,Belau/Palau,Republic,Kuniwo Nakamura,2881.0,PW
+170,PNG,Papua New Guinea,Oceania,Melanesia,462840.0,1975.0,4807000,63.1,4988.0,6328.0,Papua New Guinea/Papua Niugini,Constitutional Monarchy,Elisabeth II,2884.0,PG
+180,ROM,Romania,Europe,Eastern Europe,238391.0,1878.0,22455500,69.9,38158.0,34843.0,Romania,Republic,Ion Iliescu,3018.0,RO
+181,RuS,Russian Federation,Europe,Eastern Europe,17075400.0,1991.0,146934000,67.2,276608.0,442989.0,Rossija,Federal Republic,Vladimir Putin,3580.0,Ru
+182,RWA,Rwanda,Africa,Eastern Africa,26338.0,1962.0,7733000,39.3,2036.0,1863.0,Rwanda/urwanda,Republic,Paul Kagame,3047.0,RW
+183,SAu,Saudi Arabia,Asia,Middle East,2149690.0,1932.0,21607000,67.8,137635.0,146171.0,Al- Arabiya as-Sa udiya,Monarchy,Fahd ibn Abdul-Aziz al-Sa ud,3173.0,SA
+184,SDN,Sudan,Africa,Northern Africa,2505813.0,1956.0,29490000,56.6,10162.0,,As-Sudan,Islamic Republic,Omar Hassan Ahmad al-Bashir,3225.0,SD
+185,SEN,Senegal,Africa,Western Africa,196722.0,1960.0,9481000,62.2,4787.0,4542.0,Senegal/Sounougal,Republic,Abdoulaye Wade,3198.0,SN
+191,SLE,Sierra Leone,Africa,Western Africa,71740.0,1961.0,4854000,45.3,746.0,858.0,Sierra Leone,Republic,Ahmed Tejan Kabbah,3207.0,SL
+192,SLV,El Salvador,North America,Central America,21041.0,1841.0,6276000,69.7,11863.0,11203.0,El Salvador,Republic,Francisco Guillermo Flores Perez,645.0,SV
+194,SOM,Somalia,Africa,Eastern Africa,637657.0,1960.0,10097000,46.2,935.0,,Soomaaliya,Republic,Abdiqassim Salad Hassan,3214.0,SO
+196,STP,Sao Tome and Principe,Africa,Central Africa,964.0,1975.0,147000,65.3,6.0,,Sao Tome e PrIncipe,Republic,Miguel Trovoada,3172.0,ST
+201,SWZ,Swaziland,Africa,Southern Africa,17364.0,1968.0,1008000,40.4,1206.0,1312.0,kaNgwane,Monarchy,Mswati III,3244.0,SZ
+203,SYR,Syria,Asia,Middle East,185180.0,1941.0,16125000,68.5,65984.0,64926.0,Suriya,Republic,Bashar al-Assad,3250.0,SY
+205,TCD,Chad,Africa,Central Africa,1284000.0,1960.0,7651000,50.5,1208.0,1102.0,Tchad/Tshad,Republic,Idriss Deby,3337.0,TD
+206,TGO,Togo,Africa,Western Africa,56785.0,1960.0,4629000,54.7,1449.0,1400.0,Togo,Republic,Gnassingbe Eyadema,3332.0,TG
+207,THA,Thailand,Asia,Southeast Asia,513115.0,1350.0,61399000,68.6,116416.0,153907.0,Prathet Thai,Constitutional Monarchy,Bhumibol Adulyadej,3320.0,TH
+208,TJK,Tajikistan,Asia,Southern and Central Asia,143100.0,1991.0,6188000,64.1,1990.0,1056.0,Tocikiston,Republic,Emomali Rahmonov,3261.0,TJ
+210,TKM,Turkmenistan,Asia,Southern and Central Asia,488100.0,1991.0,4459000,60.9,4397.0,2000.0,Turkmenostan,Republic,Saparmurad Nijazov,3419.0,TM
+211,TMP,East Timor,Asia,Southeast Asia,14874.0,,885000,46.0,0.0,,Timor Timur,Administrated by the uN,Jose Alexandre Gusmao,1522.0,TP
+212,TON,Tonga,Oceania,Polynesia,650.0,1970.0,99000,67.9,146.0,170.0,Tonga,Monarchy,Taufa'ahau Tupou IV,3334.0,TO
+213,TTO,Trinidad and Tobago,North America,Caribbean,5130.0,1962.0,1295000,68.0,6232.0,5867.0,Trinidad and Tobago,Republic,Arthur N. R. Robinson,3336.0,TT
+216,TuV,Tuvalu,Oceania,Polynesia,26.0,1978.0,12000,66.3,6.0,,Tuvalu,Constitutional Monarchy,Elisabeth II,3424.0,TV
+218,TZA,Tanzania,Africa,Eastern Africa,883749.0,1961.0,33517000,52.3,8005.0,7388.0,Tanzania,Republic,Benjamin William Mkapa,3306.0,TZ
+219,uGA,uganda,Africa,Eastern Africa,241038.0,1962.0,21778000,42.9,6313.0,6887.0,uganda,Republic,Yoweri Museveni,3425.0,uG
+220,uKR,ukraine,Europe,Eastern Europe,603700.0,1991.0,50456000,66.0,42168.0,49677.0,ukrajina,Republic,Leonid KutSma,3426.0,uA
+224,uZB,uzbekistan,Asia,Southern and Central Asia,447400.0,1991.0,24318000,63.7,14194.0,21300.0,uzbekiston,Republic,Islam Karimov,3503.0,uZ
+230,VNM,Vietnam,Asia,Southeast Asia,331689.0,1945.0,79832000,69.3,21929.0,22834.0,Viet Nam,Socialistic Republic,Tran Duc Luong,3770.0,VN
+231,VuT,Vanuatu,Oceania,Melanesia,12189.0,1980.0,190000,60.6,261.0,246.0,Vanuatu,Republic,John Bani,3537.0,Vu
+233,WSM,Samoa,Oceania,Polynesia,2831.0,1962.0,180000,69.2,141.0,157.0,Samoa,Parlementary Monarchy,Malietoa Tanumafili II,3169.0,WS
+234,YEM,Yemen,Asia,Middle East,527968.0,1918.0,18112000,59.8,6041.0,5729.0,Al-Yaman,Republic,Ali Abdallah Salih,1780.0,YE
+236,ZAF,South Africa,Africa,Southern Africa,1221037.0,1910.0,40377000,51.1,116729.0,129092.0,South Africa,Republic,Thabo Mbeki,716.0,ZA
+237,ZMB,Zambia,Africa,Eastern Africa,752618.0,1964.0,9169000,37.2,3377.0,3922.0,Zambia,Republic,Frederick Chiluba,3162.0,ZM
+238,ZWE,Zimbabwe,Africa,Eastern Africa,390757.0,1980.0,11669000,37.8,5951.0,8670.0,Zimbabwe,Republic,Robert G. Mugabe,4068.0,ZW

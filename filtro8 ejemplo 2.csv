@@ -1,0 +1,71 @@
+,code,name,continent,region,surface_area,independence_year,population,life_expectancy,gnp,gnp_old,local_name,government_form,head_of_state,capital,code2
+0,ABW,Aruba,North America,Caribbean,193.0,,103000,78.4,828.0,793.0,Aruba,Nonmetropolitan Territory of The Netherlands,Willem-Alexander,129.0,AW
+3,AIA,Anguilla,North America,Caribbean,96.0,,8000,76.1,63.2,,Anguilla,Dependent Territory of the uK,Elisabeth II,62.0,AI
+5,AND,Andorra,Europe,Southern Europe,468.0,1278.0,78000,83.5,1630.0,,Andorra,Parliamentary Coprincipality,,55.0,AD
+6,ANT,Netherlands Antilles,North America,Caribbean,800.0,,217000,74.7,1941.0,,Nederlandse Antillen,Nonmetropolitan Territory of The Netherlands,Willem-Alexander,33.0,AN
+8,ARG,Argentina,South America,South America,2780400.0,1816.0,37032000,75.1,340238.0,323310.0,Argentina,Federal Republic,Fernando de la Rua,69.0,AR
+13,ATG,Antigua and Barbuda,North America,Caribbean,442.0,1981.0,68000,70.5,612.0,584.0,Antigua and Barbuda,Constitutional Monarchy,Elisabeth II,63.0,AG
+18,BEL,Belgium,Europe,Western Europe,30518.0,1830.0,10239000,77.8,249704.0,243948.0,Belgie/Belgique,"Constitutional Monarchy, Federation",Albert II,179.0,BE
+24,BHS,Bahamas,North America,Caribbean,13878.0,1973.0,307000,71.1,3527.0,3347.0,The Bahamas,Constitutional Monarchy,Elisabeth II,148.0,BS
+27,BLZ,Belize,North America,Central America,22696.0,1981.0,241000,70.9,630.0,616.0,Belize,Constitutional Monarchy,Elisabeth II,185.0,BZ
+28,BMu,Bermuda,North America,North America,53.0,,65000,76.9,2328.0,2190.0,Bermuda,Dependent Territory of the uK,Elisabeth II,191.0,BM
+29,BOL,Bolivia,South America,South America,1098581.0,1825.0,8329000,63.7,8571.0,7967.0,Bolivia,Republic,Hugo Banzer Suarez,194.0,BO
+30,BRA,Brazil,South America,South America,8547403.0,1822.0,170115000,62.9,776739.0,804108.0,Brasil,Federal Republic,Fernando Henrique Cardoso,211.0,BR
+31,BRB,Barbados,North America,Caribbean,430.0,1966.0,270000,73.0,2223.0,2186.0,Barbados,Constitutional Monarchy,Elisabeth II,174.0,BB
+37,CAN,Canada,North America,North America,9970610.0,1867.0,31147000,79.4,598862.0,625626.0,Canada,"Constitutional Monarchy, Federation",Elisabeth II,1822.0,CA
+39,CHE,Switzerland,Europe,Western Europe,41284.0,1499.0,7160400,79.6,264478.0,256092.0,Schweiz/Suisse/Svizzera/Svizra,Federation,Adolf Ogi,3248.0,CH
+40,CHL,Chile,South America,South America,756626.0,1810.0,15211000,75.7,72949.0,75780.0,Chile,Republic,Ricardo Lagos Escobar,554.0,CL
+41,CHN,China,Asia,Eastern Asia,9572900.0,-1523.0,1277558000,71.4,982268.0,917719.0,Zhongquo,People'sRepublic,Jiang Zemin,1891.0,CN
+47,COL,Colombia,South America,South America,1138914.0,1810.0,42321000,70.3,102896.0,105116.0,Colombia,Republic,Andres Pastrana Arango,2257.0,CO
+50,CRI,Costa Rica,North America,Central America,51100.0,1821.0,4023000,75.8,10226.0,9757.0,Costa Rica,Republic,Miguel angel RodrIguez EcheverrIa,584.0,CR
+51,CuB,Cuba,North America,Caribbean,110861.0,1902.0,11201000,76.2,17843.0,18862.0,Cuba,Socialistic Republic,Fidel Castro Ruz,2413.0,Cu
+53,CYM,Cayman Islands,North America,Caribbean,264.0,,38000,78.9,1263.0,1186.0,Cayman Islands,Dependent Territory of the uK,Elisabeth II,553.0,KY
+58,DMA,Dominica,North America,Caribbean,751.0,1978.0,71000,73.4,256.0,243.0,Dominica,Republic,Vernon Shaw,586.0,DM
+59,DNK,Denmark,Europe,Nordic Countries,43094.0,800.0,5330000,76.5,174099.0,169264.0,Danmark,Constitutional Monarchy,Margrethe II,3315.0,DK
+60,DOM,Dominican Republic,North America,Caribbean,48511.0,1844.0,8495000,73.2,15846.0,15076.0,Republica Dominicana,Republic,Hipolito MejIa DomInguez,587.0,DO
+62,ECu,Ecuador,South America,South America,283561.0,1822.0,12646000,71.1,19770.0,19769.0,Ecuador,Republic,Gustavo Noboa Bejarano,594.0,EC
+66,ESP,Spain,Europe,Southern Europe,505992.0,1492.0,39441700,78.8,553233.0,532031.0,Espana,Constitutional Monarchy,Juan Carlos I,653.0,ES
+68,ETH,Ethiopia,Africa,Eastern Africa,1104300.0,-1000.0,62565000,45.2,6353.0,6180.0,YeItyop iya,Republic,Negasso Gidada,756.0,ET
+72,FRA,France,Europe,Western Europe,551500.0,843.0,59225700,78.8,1424285.0,1392448.0,France,Republic,Jacques Chirac,2974.0,FR
+76,GBR,united Kingdom,Europe,British Islands,242900.0,1066.0,59623400,77.7,1378330.0,1296830.0,united Kingdom,Constitutional Monarchy,Elisabeth II,456.0,GB
+81,GLP,Guadeloupe,North America,Caribbean,1705.0,,456000,77.0,3501.0,,Guadeloupe,Overseas Department of France,Jacques Chirac,919.0,GP
+85,GRC,Greece,Europe,Southern Europe,131626.0,1830.0,10545700,78.4,120724.0,119946.0,Ellada,Republic,Kostis Stefanopoulos,2401.0,GR
+86,GRD,Grenada,North America,Caribbean,344.0,1974.0,94000,64.5,318.0,,Grenada,Constitutional Monarchy,Elisabeth II,916.0,GD
+87,GRL,Greenland,North America,North America,2166090.0,,56000,68.1,0.0,,Kalaallit Nunaat/Gronland,Part of Denmark,Margrethe II,917.0,GL
+88,GTM,Guatemala,North America,Central America,108889.0,1821.0,11385000,66.2,19008.0,17797.0,Guatemala,Republic,Alfonso Portillo Cabrera,922.0,GT
+94,HND,Honduras,North America,Central America,112088.0,1838.0,6485000,69.9,5333.0,4697.0,Honduras,Republic,Carlos Roberto Flores Facusse,933.0,HN
+96,HTI,Haiti,North America,Caribbean,27750.0,1804.0,8222000,49.2,3459.0,3107.0,Haiti/Dayti,Republic,Jean-Bertrand Aristide,929.0,HT
+106,ITA,Italy,Europe,Southern Europe,301316.0,1861.0,57680000,79.0,1161755.0,1145372.0,Italia,Republic,Carlo Azeglio Ciampi,1464.0,IT
+107,JAM,Jamaica,North America,Caribbean,10990.0,1962.0,2583000,75.2,6871.0,6722.0,Jamaica,Constitutional Monarchy,Elisabeth II,1530.0,JM
+109,JPN,Japan,Asia,Eastern Asia,377829.0,-660.0,126714000,80.7,3787042.0,4192638.0,Nihon/Nippon,Constitutional Monarchy,Akihito,1532.0,JP
+115,KNA,Saint Kitts and Nevis,North America,Caribbean,261.0,1983.0,38000,70.7,299.0,,Saint Kitts and Nevis,Constitutional Monarchy,Elisabeth II,3064.0,KN
+120,LBR,Liberia,Africa,Western Africa,111369.0,1847.0,3154000,51.0,2012.0,,Liberia,Republic,Charles Taylor,2440.0,LR
+122,LCA,Saint Lucia,North America,Caribbean,622.0,1979.0,154000,72.3,571.0,,Saint Lucia,Constitutional Monarchy,Elisabeth II,3065.0,LC
+123,LIE,Liechtenstein,Europe,Western Europe,160.0,1806.0,32300,78.8,1119.0,1084.0,Liechtenstein,Constitutional Monarchy,Hans-Adam II,2446.0,LI
+127,LuX,Luxembourg,Europe,Western Europe,2586.0,1867.0,435700,77.1,16321.0,15519.0,Luxembourg/Letzebuerg,Constitutional Monarchy,Henri,2452.0,Lu
+131,MCO,Monaco,Europe,Western Europe,1.5,1861.0,34000,78.8,776.0,,Monaco,Constitutional Monarchy,Rainier III,2695.0,MC
+135,MEX,Mexico,North America,Central America,1958201.0,1810.0,98881000,71.5,414972.0,401461.0,Mexico,Federal Republic,Vicente Fox Quesada,2515.0,MX
+145,MSR,Montserrat,North America,Caribbean,102.0,,11000,78.0,109.0,,Montserrat,Dependent Territory of the uK,Elisabeth II,2697.0,MS
+146,MTQ,Martinique,North America,Caribbean,1102.0,,395000,78.3,2731.0,2559.0,Martinique,Overseas Department of France,Jacques Chirac,2508.0,MQ
+156,NIC,Nicaragua,North America,Central America,130000.0,1838.0,5074000,68.7,1988.0,2023.0,Nicaragua,Republic,Arnoldo Aleman Lacayo,2734.0,NI
+158,NLD,Netherlands,Europe,Western Europe,41526.0,1581.0,15864000,78.3,371362.0,360478.0,Nederland,Constitutional Monarchy,Willem-Alexander,5.0,NL
+160,NPL,Nepal,Asia,Southern and Central Asia,147181.0,1769.0,23930000,57.8,4768.0,4837.0,Nepal,Constitutional Monarchy,Gyanendra Bir Bikram,2729.0,NP
+165,PAN,Panama,North America,Central America,75517.0,1903.0,2856000,75.5,9131.0,8700.0,Panama,Republic,Mireya Elisa Moscoso RodrIguez,2882.0,PA
+167,PER,Peru,South America,South America,1285216.0,1821.0,25662000,70.0,64140.0,65186.0,Peru/Piruw,Republic,Valentin Paniagua Corazao,2890.0,PE
+172,PRI,Puerto Rico,North America,Caribbean,8875.0,,3869000,75.6,34100.0,32100.0,Puerto Rico,Commonwealth of the uS,George W. Bush,2919.0,PR
+174,PRT,Portugal,Europe,Southern Europe,91982.0,1143.0,9997600,75.8,105954.0,102133.0,Portugal,Republic,Jorge Sampaio,2914.0,PT
+175,PRY,Paraguay,South America,South America,406752.0,1811.0,5496000,73.7,8444.0,9555.0,Paraguay,Republic,Luis angel Gonzalez Macchi,2885.0,PY
+180,ROM,Romania,Europe,Eastern Europe,238391.0,1878.0,22455500,69.9,38158.0,34843.0,Romania,Republic,Ion Iliescu,3018.0,RO
+192,SLV,El Salvador,North America,Central America,21041.0,1841.0,6276000,69.7,11863.0,11203.0,El Salvador,Republic,Francisco Guillermo Flores Perez,645.0,SV
+193,SMR,San Marino,Europe,Southern Europe,61.0,885.0,27000,81.1,510.0,,San Marino,Republic,,3171.0,SM
+195,SPM,Saint Pierre and Miquelon,North America,North America,242.0,,7000,77.6,0.0,,Saint-Pierre-et-Miquelon,Territorial Collectivity of France,Jacques Chirac,3067.0,PM
+200,SWE,Sweden,Europe,Nordic Countries,449964.0,836.0,8861400,79.6,226492.0,227757.0,Sverige,Constitutional Monarchy,Carl XVI Gustaf,3048.0,SE
+204,TCA,Turks and Caicos Islands,North America,Caribbean,430.0,,17000,73.3,96.0,,The Turks and Caicos Islands,Dependent Territory of the uK,Elisabeth II,3423.0,TC
+207,THA,Thailand,Asia,Southeast Asia,513115.0,1350.0,61399000,68.6,116416.0,153907.0,Prathet Thai,Constitutional Monarchy,Bhumibol Adulyadej,3320.0,TH
+213,TTO,Trinidad and Tobago,North America,Caribbean,5130.0,1962.0,1295000,68.0,6232.0,5867.0,Trinidad and Tobago,Republic,Arthur N. R. Robinson,3336.0,TT
+222,uRY,uruguay,South America,South America,175016.0,1828.0,3337000,75.2,20831.0,19967.0,uruguay,Republic,Jorge Batlle Ibanez,3492.0,uY
+223,uSA,united States,North America,North America,9363520.0,1776.0,278357000,77.1,8510700.0,8110900.0,united States,Federal Republic,George W. Bush,3813.0,uS
+226,VCT,Saint Vincent and the Grenadines,North America,Caribbean,388.0,1979.0,114000,72.3,285.0,,Saint Vincent and the Grenadines,Constitutional Monarchy,Elisabeth II,3066.0,VC
+227,VEN,Venezuela,South America,South America,912050.0,1811.0,24170000,73.1,95023.0,88434.0,Venezuela,Federal Republic,Hugo Chavez FrIas,3539.0,VE
+228,VGB,"Virgin Islands, British",North America,Caribbean,151.0,,21000,75.4,612.0,573.0,British Virgin Islands,Dependent Territory of the uK,Elisabeth II,537.0,VG
+229,VIR,"Virgin Islands, u.S.",North America,Caribbean,347.0,,93000,78.1,0.0,,Virgin Islands of the united States,uS Territory,George W. Bush,4067.0,VI
